@@ -1,0 +1,16 @@
+#image-wrapper {
+  position: relative;
+}
+#image-wrapper img {
+  display: block;
+}
+span.marker {
+  width: 20px;
+  height: 20px;
+  background: #f66;
+  color: #fff;
+  text-align: center;
+  position: absolute;
+  line-height: 20px;
+  cursor: pointer;
+}
